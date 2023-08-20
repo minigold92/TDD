@@ -1,4 +1,4 @@
-package kr.co.minigold92;
+package kr.co.minigold92.ch1;
 
 
 import org.junit.jupiter.api.Assertions;
